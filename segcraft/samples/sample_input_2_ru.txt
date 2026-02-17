@@ -1,0 +1,9 @@
+title=Сценарий 2: Для профи, быстрые тесты креативов
+base_text=Соберите пакет вариаций рекламных текстов под сегменты аудитории за минуты: углы подачи, триггеры, CTA — всё в одном месте и готово к A/B тесту.
+product_context=Инструмент для маркетологов: генерация вариаций, контроль формата (лимиты), подсветка рисков (комплаенс), экспорт в таблицу.
+selected_segments=perf_pro;ecom_owner;premium_brand;price_sensitive;skeptic_retry
+tone=formal
+format_id=yabusiness_desc
+variants_per_segment=2
+variability_level=bold
+constraints=Не обещать рост метрик;Не выдумывать результаты;Писать конкретно, без воды;Соблюдать лимиты формата

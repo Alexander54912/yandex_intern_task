@@ -1,0 +1,42 @@
+[
+  {
+    "format_id": "yadirect_text",
+    "name": "Яндекс Директ (текстовое объявление)",
+    "limits": {
+      "headline_max": 56,
+      "body_max": 81
+    },
+    "output_template": "Сделай headline до 56 символов и body до 81 символов.",
+    "notes": "Коротко, конкретно, без “воды”. Важно: УТП + действие."
+  },
+  {
+    "format_id": "yabusiness_desc",
+    "name": "Яндекс Бизнес (описание)",
+    "limits": {
+      "headline_max": 60,
+      "body_max": 200
+    },
+    "output_template": "Сделай headline до 60 символов и body до 200 символов.",
+    "notes": "Чуть больше контекста, можно добавить “как работает” и “для кого”."
+  },
+  {
+    "format_id": "smm_post",
+    "name": "SMM пост (универсальный)",
+    "limits": {
+      "headline_max": 80,
+      "body_max": 700
+    },
+    "output_template": "Сделай headline до 80 символов и body до 700 символов.",
+    "notes": "Можно раскрыть выгоды, но держать структуру: хук → ценность → CTA."
+  },
+  {
+    "format_id": "unlimited_draft",
+    "name": "Черновик без лимитов",
+    "limits": {
+      "headline_max": 999,
+      "body_max": 5000
+    },
+    "output_template": "Сделай headline до 999 символов и body до 5000 символов.",
+    "notes": "Для первого прохода, потом ужимаем под формат."
+  }
+]
